@@ -2,7 +2,7 @@
 # 👋 Hey there, I'm Rushikesh!
 
 A software engineering student and tech enthusiast.
-Currently based in 📍 Mumbai, India 🇮🇳
+Currently based in 📍 Mumbai, India
 
 ---
 
