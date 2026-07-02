@@ -10,27 +10,27 @@ Currently based in 📍 Mumbai, India
 
 ### 👨‍💻 Languages
 
-🐍 Python   ⚡ JavaScript   
+🐍 Python    ⚡ JavaScript
 
-🌈 HTML5   🎨 CSS3   💨 Tailwind CSS   🅱️ Bootstrap
+🌈 HTML5    🎨 CSS3    💨 Tailwind CSS    🅱️ Bootstrap
 
 ### ⚙️ Backend & Frameworks
 
-🚀 Django   ⚡ FastAPI   ⚛️ React.js   🔗 REST APIs   🦜 LangChain
+🚀 Django    ⚡ FastAPI    ⚛️ React.js    🔗 REST APIs    🦜 LangChain
 
 ### 🗃️ Databases
 
-📦 SQLite   🐬 MySQL   🐘 PostgreSQL
+📦 SQLite    🐬 MySQL    🐘 PostgreSQL
 
+---
 
 ## 🚀 About Me
 
 🎓 Final Year Computer Engineering Student
-💡 Love building full-stack applications
+💡 Love building full-stack applications and AI-powered tools
 🧩 Enjoy solving real-world problems
 🌱 Always learning new technologies
 
-
-
+---
 
 ✨ *"Keep building. Keep learning."* 🚀
