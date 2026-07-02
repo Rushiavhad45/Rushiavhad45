@@ -16,7 +16,7 @@ Currently based in 📍 Mumbai, India
 
 ### ⚙️ Backend & Frameworks
 
-🚀 Django   ⚡ FastAPI   ⚛️ React.js   🔗 REST APIs
+🚀 Django   ⚡ FastAPI   ⚛️ React.js   🔗 REST APIs   🦜 LangChain
 
 ### 🗃️ Databases
 
