@@ -12,7 +12,7 @@ Currently based in 📍 Mumbai, India
 
 🐍 Python    ⚡ JavaScript
 
-🌈 HTML5    🎨 CSS3    💨 Tailwind CSS    🅱️ Bootstrap
+🌈 HTML5    🎨 CSS3    💨 Tailwind CSS   
 
 ### ⚙️ Backend & Frameworks
 
