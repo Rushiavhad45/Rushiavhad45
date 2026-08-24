@@ -20,7 +20,7 @@ Currently based in 📍 Mumbai, India
 
 ### 🗃️ Databases
 
-📦 SQLite    🐬 MySQL    🐘 PostgreSQL
+📦 SQLite    🍃 MongoDB    🐘 PostgreSQL
 
 ---
 
