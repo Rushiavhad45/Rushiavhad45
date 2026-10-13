@@ -1,6 +1,6 @@
-👋 Hey there, I'm Rushikesh!
+👋 Hey there, I'm Rushikesh! A Software Engineering Graduate & Tech Enthusiast | 🚀 Open to Work
 
-A software engineering graduate and tech enthusiast. Currently based in 📍 Mumbai, India.
+📍 Mumbai, India
 
 💻 Tech Stack
 👨‍💻 Languages
@@ -27,9 +27,5 @@ A software engineering graduate and tech enthusiast. Currently based in 📍 Mum
 
 🌱 Continuously learning new technologies and improving my development skills.
 
-📍 Mumbai, India
+💼 Open to Work | Seeking Software Developer & Full-Stack Developer Opportunities
 
-🎯 Interests
-Full-Stack Web Development
-Backend Development & API Design
-Building innovative software projects
