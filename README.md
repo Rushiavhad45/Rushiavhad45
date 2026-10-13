@@ -1,19 +1,29 @@
-👋 Hey there, I'm Rushikesh!
-A software engineering student and tech enthusiast. Currently based in 📍 Mumbai, India
+# 👋 Hey there, I'm Rushikesh!
+### 🚀 Software Engineering Graduate & Tech Enthusiast | **Open to Work**
 
-💻 Tech Stack
-👨‍💻 Languages
-🐍 Python    ⚡ JavaScript
+📍 **Mumbai, India 🇮🇳**
 
-🌈 HTML5    🎨 CSS3    💨 Tailwind CSS   
+---
 
-⚙️ Backend & Frameworks
-🚀 Django    ⚡ FastAPI    ⚛️ React.js    🔗 REST APIs    🟢 Node.js 
+## 🚀 About Me
 
-🗃️ Databases
-📦 SQLite    🍃 MongoDB    🐘 PostgreSQL
+* 🎓 **Computer Engineering Graduate**
+* 💻 **Passionate about software development** and building practical applications.
+* 🌱 **Continuously learning** new technologies and improving my development skills.
+* 💼 **Open to Work | Seeking Software Developer & Full-Stack Developer Opportunities**
 
-🚀 About Me
-🎓 Final Year Computer Engineering Student 💡 Love building full-stack applications and AI-powered tools 🧩 Enjoy solving real-world problems 🌱 Always learning new technologies
+---
 
-✨ "Keep building. Keep learning." 🚀
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+🐍 **Python** · ⚡ **JavaScript** · 🌈 **HTML5** · 🎨 **CSS3**
+
+### 🎨 Frontend
+⚛️ **React.js** · 💨 **Tailwind CSS**
+
+### ⚙️ Backend & Frameworks
+🚀 **Django** · ⚡ **FastAPI** · 🟢 **Node.js** · 🔗 **REST APIs**
+
+### 🗃️ Databases
+📦 **SQLite** · 🍃 **MongoDB** · 🐘 **PostgreSQL**
